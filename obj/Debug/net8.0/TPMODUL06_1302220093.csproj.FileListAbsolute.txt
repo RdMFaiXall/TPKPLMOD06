@@ -1,0 +1,15 @@
+C:\Programing\C#\TPMODUL06_1302220093\bin\Debug\net8.0\TPMODUL06_1302220093.exe
+C:\Programing\C#\TPMODUL06_1302220093\bin\Debug\net8.0\TPMODUL06_1302220093.deps.json
+C:\Programing\C#\TPMODUL06_1302220093\bin\Debug\net8.0\TPMODUL06_1302220093.runtimeconfig.json
+C:\Programing\C#\TPMODUL06_1302220093\bin\Debug\net8.0\TPMODUL06_1302220093.dll
+C:\Programing\C#\TPMODUL06_1302220093\bin\Debug\net8.0\TPMODUL06_1302220093.pdb
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.AssemblyInfoInputs.cache
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.AssemblyInfo.cs
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.csproj.CoreCompileInputs.cache
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.sourcelink.json
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.dll
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\refint\TPMODUL06_1302220093.dll
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.pdb
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\TPMODUL06_1302220093.genruntimeconfig.cache
+C:\Programing\C#\TPMODUL06_1302220093\obj\Debug\net8.0\ref\TPMODUL06_1302220093.dll
